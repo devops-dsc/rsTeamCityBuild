@@ -21,6 +21,6 @@ rsTeamCityBuild test1
   TeamCityUser = "admin"
   TeamCityPass = "blahblah"
   Ensure = "Present"
-  DependsOn = @("[xWebsite]jmad_rackspacedevops_com")
+  DependsOn = @("[msWebsite]jmad_rackspacedevops_com")
 }
 </pre>
